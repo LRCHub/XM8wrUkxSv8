@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Fake (2024 Remaster)",
+  "base_artist": "ブラン・ニュー・ヘヴィーズ",
+  "createdAt": "2026-02-08T05:32:35.028898Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fake ID",
+      "artist": "Big & Rich feat. Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/01_Fake_ID_Big_&_Rich_feat._Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/02_Fake_Love_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Fake_Love_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "S-X",
+      "has_synced": false,
+      "path": "select/04_Fake_Love_S-X.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/05_Fake_Plastic_Trees_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fake ID (feat. Gretchen Wilson)",
+      "artist": "Big & Rich",
+      "has_synced": true,
+      "path": "select/06_Fake_ID_(feat._Gretchen_Wilson)_Big_&_Rich.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Danielle Bradbery)",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/07_Fake_Love_(feat._Danielle_Bradbery)_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fake A Smile",
+      "artist": "Alan Walker feat. salem ilese",
+      "has_synced": true,
+      "path": "select/08_Fake_A_Smile_Alan_Walker_feat._salem_ilese.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fake A Smile",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/09_Fake_A_Smile_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Fake_Plastic_Trees_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_Fake_Plastic_Trees_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (acoustic)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/12_Fake_Plastic_Trees_(acoustic)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (Eves Club)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Fake_Plastic_Trees_(Eves_Club)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (KROQ)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/14_Fake_Plastic_Trees_(KROQ)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fake Plastic Trees (MTV Live)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/15_Fake_Plastic_Trees_(MTV_Live)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Morning Mr Magpie (Nathan Fake Rmx)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/16_Morning_Mr_Magpie_(Nathan_Fake_Rmx)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stuck On Repeat (Fake Blood Remix)",
+      "artist": "Little Boots",
+      "has_synced": false,
+      "path": "select/17_Stuck_On_Repeat_(Fake_Blood_Remix)_Little_Boots.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Last Night's Fake Blood",
+      "artist": "Miniature Tigers",
+      "has_synced": true,
+      "path": "select/18_Last_Night's_Fake_Blood_Miniature_Tigers.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Fake Empire",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/19_Fake_Empire_The_National.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Fake Headlines",
+      "artist": "The New Pornographers",
+      "has_synced": false,
+      "path": "select/20_The_Fake_Headlines_The_New_Pornographers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fake",
+      "artist": "The Brand New Heavies",
+      "has_synced": false,
+      "path": "select/pl_01_Fake_The_Brand_New_Heavies.txt"
+    }
+  ]
+}
